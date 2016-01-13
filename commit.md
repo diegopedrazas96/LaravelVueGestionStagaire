@@ -1,1 +1,1 @@
-add new webpack dev server http access variable on 4/6/2016
+Laravel scout installed on 1/13/2016
