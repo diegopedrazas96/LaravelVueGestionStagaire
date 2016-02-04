@@ -1,1 +1,1 @@
-14 elements changed on 1/27/2016
+Ordering posts in correct order on 2/9/2016
