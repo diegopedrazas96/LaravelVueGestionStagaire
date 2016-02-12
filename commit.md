@@ -1,1 +1,1 @@
-post model and database set on 2/12/2016
+Ordering posts in correct order on 2/10/2016
