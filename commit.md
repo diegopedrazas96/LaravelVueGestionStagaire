@@ -1,1 +1,1 @@
-Like and unlike in vuejs on 2/4/2016
+3 elements changed on 1/25/2016
