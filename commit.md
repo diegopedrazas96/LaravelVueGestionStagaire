@@ -1,1 +1,1 @@
-change demo image on 3/28/2016
+add new webpack dev server http access variable on 4/7/2016
